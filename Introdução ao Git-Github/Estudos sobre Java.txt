@@ -1,0 +1,22 @@
+Java é uma linguagem de programação orientada a objetos, ela foi desenvolvida na década de 90, na empresa Sun Microsystem posteriormente adquirida pela Oracle em 2008.
+
+Dúvidas: 
+
+O que significa ser orientado a objetos? (Voltar a aprender as aulas da Juliana e procurar outras referências;
+
+Entender a fundo os paradigmas de orientação a objetos.
+
+Quem é Sun Microsystem?
+Quem é Oracle?
+
+O que é uma linguagem interpretada?
+O que é uma linguagem de máquina?
+
+
+Programação compitada: A compilação do código se dá ainda em tempo de desenvolvimento.
+
+Linguagem x plataforma
+
+Java é a linguagem convencional da Plataforma Java, mas ela não é a única.
+
+Escreva uma vez e execute em qualquer lugar
